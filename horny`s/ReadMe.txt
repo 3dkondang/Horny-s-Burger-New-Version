@@ -1,0 +1,1 @@
+You only need to move all the files from the Horny's Burger folder into the horny's/stream folder.
